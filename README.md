@@ -9,9 +9,9 @@ Play a game of Mastermind in your terminal using Python.
 - The player has 8 attempts to find the correct color sequence of the pegs.  
 
 - Feedback pegs are provided after each attempt by the player:  
-Black: number of pegs that are correct color and in correct position.  
-White: number of pegs that are correct color but in the wrong position.  
-Null: number of pegs that are not in the solution.  
+* Black: number of pegs that are correct color and in correct position.  
+* White: number of pegs that are correct color but in the wrong position.  
+* Null: number of pegs that are not in the solution.  
 
 ## How to Play
 - The program requires Python 3.  
